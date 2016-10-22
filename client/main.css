@@ -1,1 +1,10 @@
 /* CSS declarations go here */
+table, tr, td {
+    border: 1px solid black;
+    padding:5px;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+}
