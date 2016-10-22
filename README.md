@@ -69,7 +69,8 @@ Nice, you should see a message after a few minutes similar to:
     
     => App running at: http://localhost:3000/
     
-This means everything is working!
+This means everything is working! You can go to [http://localhost:3000/](http://localhost:3000/)
+in your browser to view the app.
 
 Now it's time to edit some stuff to see what changes :Discussions
 
